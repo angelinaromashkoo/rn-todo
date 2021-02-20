@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://tx-42a.anonymous.rn-todo.exp.direct",
+  "packagerNgrokUrl": "https://packager.tx-42a.anonymous.rn-todo.exp.direct",
+  "ngrokPid": 5948,
+  "packagerPort": 19001,
+  "packagerPid": 4700,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002
+}
