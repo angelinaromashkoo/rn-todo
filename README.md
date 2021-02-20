@@ -2,3 +2,4 @@
 ##### **Main technologies used here:** 
 - `React Native` 
 - `Expo` 
+https://github.com/angelinaromashkoo/rn-todo/blob/master/photo_2021-02-20_18-18-08.jpg
